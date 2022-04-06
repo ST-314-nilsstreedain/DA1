@@ -1,5 +1,5 @@
 # Introduction to RStudio
-loan50 <- read.csv(file.choose(), header = TRUE)
+loan50 <- read.csv('loan50.csv')
 
 # Part 1 - Exploring a Single Quantitative Variable
 # For this portion of the assignment, you’ll practice using R to explore the
