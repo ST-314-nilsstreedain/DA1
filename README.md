@@ -1,4 +1,4 @@
-# Introduction to RStudio
+# Data Analysis 1 - Introduction to RStudio
 This first data analysis assignment is intended to help you familiarize yourself with the RStudio interface and get comfortable running small chunks of R code. If you have not done so already, please work through the R Tutorial in the Start Here module on Canvas.
 
 For this assignment, you will need the Intro_to_RStudio.R file and the loan50.csv dataset. Both can be found on the Data Analysis 1 assignment page.
